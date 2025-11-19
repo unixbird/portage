@@ -15,7 +15,5 @@
 =games-util/gamemode-1.8.2 ~amd64
 # required by games-util/heroic-bin (argument)
 =games-util/heroic-bin-2.18.1 ~amd64
-# required by sys-kernel/zen-sources (argument)
-=sys-kernel/zen-sources-6.13.8 ~amd64
 # required by app-emulation/wine-staging (argument)
 =app-emulation/wine-staging-10.18 ~amd64
