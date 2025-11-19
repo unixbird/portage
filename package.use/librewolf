@@ -1,0 +1,4 @@
+www-client/librewolf wayland pipewire hwaccel
+# required by www-client/librewolf-144.0.2_p1::librewolf[system-libvpx]
+# required by www-client/librewolf (argument)
+>=media-libs/libvpx-1.15.2 postproc

@@ -1,0 +1,6 @@
+*/* VIDEO_CARDS: -* nvidia
+# required by sys-kernel/gentoo-kernel-6.12.54::gentoo[-generic-uki,initramfs]
+# required by virtual/dist-kernel-6.12.54::gentoo
+# required by sys-kernel/linux-firmware-20250808::gentoo[dist-kernel]
+# required by sys-kernel/linux-firmware (argument)
+>=sys-kernel/installkernel-60 dracut

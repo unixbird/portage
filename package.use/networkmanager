@@ -1,0 +1,2 @@
+net-misc/networkmanager dhcpcd bluetooth policykit systemd
+net-wireless/wpa_supplicant dbus
