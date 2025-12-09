@@ -15,3 +15,7 @@ location = /var/db/repos/steam-overlay
 sync-type = git
 sync-uri = https://github.com/anyc/steam-overlay.git
 
+[zugaina]
+location = /var/db/repos/zugaina
+sync-type = rsync
+sync-uri = rsync://gentoo.zugaina.org/zugaina-portage

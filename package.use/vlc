@@ -187,3 +187,6 @@ media-video/vlc wayland x265 x264 srt opus ogg mpeg mp3 matroska libass flac
 # required by app-emulation/wine-proton-10.0.2d::gentoo[gstreamer]
 # required by app-emulation/wine-proton (argument)
 >=media-sound/cdparanoia-3.10.2-r8 abi_x86_32
+# required by net-im/telegram-desktop-6.0.2-r1::gentoo[webkit,wayland]
+# required by telegram-desktop (argument)
+>=dev-qt/qtwayland-6.9.3 compositor
